@@ -9,6 +9,7 @@ Features:
 * AES256 Encryption with Key
 * Multi-Client on single ncat server
 * Text Formatting (Bold, Underline, Blink, Highlight, Colour)
+* Timestamp on incoming messages
 
 ## Setup
 
