@@ -3,7 +3,8 @@
 ## Introduction
 
 Born out of a simple nc client with pipes...
-One-Liner Bash Chat Client for Linux using only base image packages
+
+(Technically) One-Liner Bash Chat Client for Linux using only base image packages
 
 Features:
 * AES256 Encryption with Key
