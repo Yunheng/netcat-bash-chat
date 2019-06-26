@@ -1,4 +1,4 @@
-# Netcash-Bash-Chat
+# Netcat Bash Chat
 
 ## Introduction
 
